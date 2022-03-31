@@ -14,3 +14,10 @@
 **Thoughts**: My usual code in defining lazy-loaded vue components did not work, so I learned about the `defineAsyncComponent` function in **Vue 3**.
 
 **Latest Commit:** [**63d7ed1**](https://github.com/kulotsystems/tabulation-system/tree/63d7ed1736b1bbc60dc643e9c55c7b33533e7747).
+
+
+### Day 3: March 31, 2022
+
+**Today's Progress**: Create database migrations.
+
+**Latest Commit:** [**1160e75**](https://github.com/kulotsystems/tabulation-system/tree/1160e7586fca57c9771da149f3082809f95e4c7e).
