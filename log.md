@@ -21,3 +21,10 @@
 **Today's Progress**: Create database migrations.
 
 **Latest Commit:** [**1160e75**](https://github.com/kulotsystems/tabulation-system/tree/1160e7586fca57c9771da149f3082809f95e4c7e).
+
+
+### Day 4: April 02, 2022
+
+**Today's Progress**: Create model for each entity.
+
+**Latest Commit:** [**839f1e3**](https://github.com/kulotsystems/tabulation-system/tree/839f1e31988d6eb74838918b35b201022ac51643).
