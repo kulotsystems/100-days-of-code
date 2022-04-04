@@ -41,3 +41,11 @@
 **Thoughts:** I used **Vuetify 3** which is currently in its beta version. I'm starting to get the hang of using packages from the **Vue 3** ecosystem.
 
 **Latest Commit:** [**2ff58b3**](https://github.com/kulotsystems/tabulation-system/tree/2ff58b377b7c4c05345d7c9c3dd0389637a600f1)
+
+---
+
+### Day 6: April 04, 2022
+
+**Today's Progress:** Updated the user model, added user seeder for development, and designed **Sign In** view.
+
+**Latest Commit:** [**1c6b61f**](https://github.com/kulotsystems/tabulation-system/tree/1c6b61f1d0c7d20e3f4ea22a73fed2ee26d7a73d)
