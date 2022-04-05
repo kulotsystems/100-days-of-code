@@ -11,3 +11,4 @@ The log of my #100DaysOfCode challenge. Started on **March 29, Tuesday, 2022**.
 4. [Create model for each entity.](https://github.com/kulotsystems/tabulation-system/tree/839f1e31988d6eb74838918b35b201022ac51643)
 5. [Set up Vuetify.](https://github.com/kulotsystems/tabulation-system/tree/2ff58b377b7c4c05345d7c9c3dd0389637a600f1)
 6. [Updated the user model, added user seeder for development, and designed Sign In view.](https://github.com/kulotsystems/tabulation-system/tree/1c6b61f1d0c7d20e3f4ea22a73fed2ee26d7a73d)
+7. [Set up axios and pace-js.](https://github.com/kulotsystems/tabulation-system/tree/8f024d7c04412013fd31f789ab3bc2e314d702b2)

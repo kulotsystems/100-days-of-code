@@ -10,7 +10,7 @@
 
 ### Day 2: March 30, 2022
 
-**Today's Progress:** Set up VueRouter and Vuex Store.
+**Today's Progress:** Set up **VueRouter** and **Vuex Store**.
 
 **Thoughts:** My usual code in defining lazy-loaded vue components did not work, so I learned about the `defineAsyncComponent` function in **Vue 3**.
 
@@ -49,3 +49,11 @@
 **Today's Progress:** Updated the user model, added user seeder for development, and designed **Sign In** view.
 
 **Latest Commit:** [**1c6b61f**](https://github.com/kulotsystems/tabulation-system/tree/1c6b61f1d0c7d20e3f4ea22a73fed2ee26d7a73d)
+
+---
+
+### Day 7: April 05, 2022
+
+**Today's Progress:** Set up **axios** and **pace-js**.
+
+**Latest Commit:** [**8f024d7**](https://github.com/kulotsystems/tabulation-system/tree/8f024d7c04412013fd31f789ab3bc2e314d702b2)
