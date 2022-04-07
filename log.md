@@ -57,3 +57,12 @@
 **Today's Progress:** Set up **axios** and **pace-js**.
 
 **Latest Commit:** [**8f024d7**](https://github.com/kulotsystems/tabulation-system/tree/8f024d7c04412013fd31f789ab3bc2e314d702b2)
+
+
+---
+
+### Day 8: April 07, 2022
+
+**Today's Progress:** Added basic session authentication.
+
+**Latest Commit:** [**b81593a**](https://github.com/kulotsystems/tabulation-system/tree/b81593a495bdf9f6653012be3e2e2078f6722210)
