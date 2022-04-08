@@ -66,3 +66,13 @@
 **Today's Progress:** Added basic session authentication.
 
 **Latest Commit:** [**b81593a**](https://github.com/kulotsystems/tabulation-system/tree/b81593a495bdf9f6653012be3e2e2078f6722210)
+
+---
+
+### Day 9: April 08, 2022
+
+**Today's Progress:** Prepared vuex modules and views of dialog components.
+
+**Thoughts:** I still need to look into the new layout system in **Vuetify 3**. I'm going to fix the layout of the dialog components later on.
+
+**Latest Commit:** [**0fc452c**](https://github.com/kulotsystems/tabulation-system/tree/0fc452c4d2cc28f116e0bc66e83d1880a0523bd8)

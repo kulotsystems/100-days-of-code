@@ -13,3 +13,4 @@ The log of my #100DaysOfCode challenge. Started on **March 29, Tuesday, 2022**.
 6. [Updated the user model, added user seeder for development, and designed Sign In view.](https://github.com/kulotsystems/tabulation-system/tree/1c6b61f1d0c7d20e3f4ea22a73fed2ee26d7a73d)
 7. [Set up axios and pace-js.](https://github.com/kulotsystems/tabulation-system/tree/8f024d7c04412013fd31f789ab3bc2e314d702b2)
 8. [Added basic session authentication.](https://github.com/kulotsystems/tabulation-system/tree/b81593a495bdf9f6653012be3e2e2078f6722210)
+8. [Prepared vuex modules and views of dialog components.](https://github.com/kulotsystems/tabulation-system/tree/0fc452c4d2cc28f116e0bc66e83d1880a0523bd8)
