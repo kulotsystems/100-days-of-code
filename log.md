@@ -76,3 +76,11 @@
 **Thoughts:** I still need to look into the new layout system in **Vuetify 3**. I'm going to fix the layout of the dialog components later on.
 
 **Latest Commit:** [**0fc452c**](https://github.com/kulotsystems/tabulation-system/tree/0fc452c4d2cc28f116e0bc66e83d1880a0523bd8)
+
+---
+
+### Day 10: April 09, 2022
+
+**Today's Progress:** Prepared CRUD operations for the base models in their respective controllers.
+
+**Latest Commit:** [**49eac48**](https://github.com/kulotsystems/tabulation-system/tree/49eac48a697efc97ecf7d50879592e8ca0ef2969)
