@@ -17,3 +17,4 @@ The log of my #100DaysOfCode challenge. Started on **March 29, Tuesday, 2022**.
 8.  [Added basic session authentication.](https://github.com/kulotsystems/tabulation-system/tree/b81593a495bdf9f6653012be3e2e2078f6722210)
 9.  [Prepared vuex modules and views of dialog components.](https://github.com/kulotsystems/tabulation-system/tree/0fc452c4d2cc28f116e0bc66e83d1880a0523bd8)
 10. [Prepared CRUD operations for the base models in their respective controllers.](https://github.com/kulotsystems/tabulation-system/tree/49eac48a697efc97ecf7d50879592e8ca0ef2969)
+11. [Added an auth module to Vuex and enforced frontend route rules.](https://github.com/kulotsystems/tabulation-system/tree/87424460d6ee468d08f14c599c4757e76ca26aa4)

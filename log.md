@@ -84,3 +84,11 @@
 **Today's Progress:** Prepared CRUD operations for the base models in their respective controllers.
 
 **Latest Commit:** [**49eac48**](https://github.com/kulotsystems/tabulation-system/tree/49eac48a697efc97ecf7d50879592e8ca0ef2969)
+
+---
+
+### Day 11: April 10, 2022
+
+**Today's Progress:**  Added an auth module to **Vuex** and enforced frontend route rules.
+
+**Latest Commit:** [**8742446**](https://github.com/kulotsystems/tabulation-system/tree/87424460d6ee468d08f14c599c4757e76ca26aa4)
