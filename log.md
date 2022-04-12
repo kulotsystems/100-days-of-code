@@ -92,3 +92,13 @@
 **Today's Progress:**  Added an auth module to **Vuex** and enforced frontend route rules.
 
 **Latest Commit:** [**8742446**](https://github.com/kulotsystems/tabulation-system/tree/87424460d6ee468d08f14c599c4757e76ca26aa4)
+
+---
+
+### Day 12: April 12, 2022
+
+**Today's Progress:** Added create-record frontend views for my base models.
+
+**Thoughts:** I implement frontend form validation on later commits.
+
+**Latest Commit:** [**fea7d57**](https://github.com/kulotsystems/tabulation-system/tree/fea7d5747f30edba3879881528661f95f456fcfa)
