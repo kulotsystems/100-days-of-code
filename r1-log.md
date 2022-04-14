@@ -20,3 +20,4 @@ The log of my #100DaysOfCode challenge. Started on **March 29, Tuesday, 2022**.
 11. [Added an auth module to Vuex and enforced frontend route rules.](https://github.com/kulotsystems/tabulation-system/tree/87424460d6ee468d08f14c599c4757e76ca26aa4)
 12. [Added create-record frontend views for my base models.](https://github.com/kulotsystems/tabulation-system/tree/fea7d5747f30edba3879881528661f95f456fcfa)
 13. [Added list-records frontend views for my base models.](https://github.com/kulotsystems/tabulation-system/tree/2435e86fe23e3fe981c9b1ab89ae202e96cfcefc)
+14. [Added delete-record frontend methods for my base models.](https://github.com/kulotsystems/tabulation-system/tree/56eb9b5ccca0633b31c472574d3b8199c95c256a)

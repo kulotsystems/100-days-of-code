@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 14: April 14, 2022
+
+**Today's Progress:** Added delete-record frontend methods for my base models.
+
+**Thoughts:** I already utilized my custom confirm-dialog component.
+
+**Latest Commit:** [**56eb9b5**](https://github.com/kulotsystems/tabulation-system/tree/56eb9b5ccca0633b31c472574d3b8199c95c256a)
+
+
+---
+
+
 ### Day 13: April 13, 2022
 
 **Today's Progress:** Added list-records frontend views for my base models.
